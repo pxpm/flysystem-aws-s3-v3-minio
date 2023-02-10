@@ -1,5 +1,5 @@
 {
-    "name": "coraxster/flysystem-aws-s3-v3-minio",
+    "name": "pxpm/flysystem-aws-s3-v3-minio",
     "description": "Flysystem adapter for the AWS S3 SDK v3.x, forked for minio support",
     "license": "MIT",
     "authors": [
